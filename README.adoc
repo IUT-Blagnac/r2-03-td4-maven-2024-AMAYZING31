@@ -1,4 +1,4 @@
-= Compiler et construire ses applications avec maven
+ Compiler et construire ses applications avec maven
 Jean-Michel Bruel <jbruel@gmail.com>
 v1, 2022-02-20 : Initial draft
 :icons: font
